@@ -1,1 +1,1 @@
-# pietro-marsico-bootcamp-exam
+# MasterZ x SolanaBootcamp exam
